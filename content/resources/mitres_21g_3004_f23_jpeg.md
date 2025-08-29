@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/marguerite-de-navarre-society-website/mitres_21g_3004_f23.jpeg
+file: /ol-ocw-studio-app/courses/res-21g-3004-marguerite-de-navarre-society-website-fall-2023/mitres_21g_3004_f23.jpeg
 file_size: 265037
 file_type: image/jpeg
 image_metadata:
